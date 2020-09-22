@@ -3,7 +3,7 @@ SafPat
 -----------------------------------------------------------------
 SafPat is a domain-specific language for enabling automated safety reasoning with safety patterns.
 
-SafPat has been introduced by the following article submitted to ICLP 2020:
+SafPat has been introduced by the following article appearing at ICLP 2020:
 
 Yuri Gil Dantas, Antoaneta Kondeva, and Vivek Nigam: 
 Less Manual Work for Safety Engineers: Towards an Automated Safety Reasoning with Safety Patterns
